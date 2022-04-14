@@ -36,7 +36,7 @@ Example:
 let g:rspec_command = "!rspec --drb {spec}"
 ```
 
-If you want running spec with debugger(pry, debugger, etc), just
+If you want running spec with debugger(`pry`, `debugger`, etc), just
 declare this in your vim config.
 ```vim
 let g:rspec_with_debug = 1
