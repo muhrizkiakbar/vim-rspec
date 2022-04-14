@@ -38,8 +38,8 @@ let g:rspec_command = "!rspec --drb {spec}"
 
 If you want running spec with debugger(`pry`, `debugger`, etc), just
 declare this in your vim config.
-- Press a/i to insert mode if you wanna debug.
-- Press Ctrl+\ and Ctrl+n if you wanna normal mode(scrollable).
+- Press `a`/`i` to insert mode if you wanna debug.
+- Press `Ctrl+\ ` and `Ctrl+n ` if you wanna normal mode(scrollable).
 ```vim
 let g:rspec_with_debug = 1
 ```
