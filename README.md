@@ -97,22 +97,3 @@ gem install vim-flavor
 vim-flavor install
 rake
 ```
-
-Credits
--------
-
-![thoughtbot](https://thoughtbot.com/logo.png)
-
-rspec.vim is maintained by [thoughtbot's Vim enthusiasts](https://thoughtbot.com/upcase/vim)
-and [contributors](https://github.com/thoughtbot/vim-rspec/graphs/contributors)
-like you. Thank you!
-
-It was strongly influenced by Gary Bernhardt's [Destroy All
-Software](https://www.destroyallsoftware.com/screencasts) screencasts.
-
-## License
-
-rspec.vim is copyright © 2016 thoughtbot. It is free software, and may be
-redistributed under the terms specified in the `LICENSE` file.
-
-The names and logos for thoughtbot are trademarks of thoughtbot, inc.
